@@ -61,4 +61,10 @@ I’m **Ege Oruç**, a 4th-year **Computer Science student**  <img src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### 🥋 Beyond Tech
+
+- President — **Özyeğin University Martial Arts Club (2024–2025)**  
+- Former Social Media Coordinator & athlete since 2022  
+If you’re into martial arts or want to talk about how fighting and tech overlap (strategy, timing, adaptation), feel free to reach out 🙂
 ---
